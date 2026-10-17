@@ -19,7 +19,7 @@ Reviews tell you how the latte tastes. They don't tell you whether you can sit a
 
 - Designed and built with AI-assisted coding (Claude), iterating from references I collected
 - Café list curated in Notion from my own visits; photos are my own
-- d3-geo for the globe, Leaflet with OpenStreetMap / CARTO tiles for the city maps, Natural Earth land data
+- d3-geo for the globe, Leaflet with OpenStreetMap tiles for the city maps, Natural Earth land data
 
 ## What's next
 
